@@ -39,3 +39,7 @@ if __name__ == '__main__':
 @app.route('/', methods=['GET'])
 def index():
     return jsonify({"message": "Backend SmartExplore Nganjuk Aktif!"}), 200
+
+@app.before_request
+def log_request_info():
+    print(f"DEBUG: Menerima request ke: {request.url}")

@@ -104,3 +104,4 @@ if not os.path.exists(CSV_PATH):
     print("!!! ERROR: FILE CSV TIDAK DITEMUKAN DI PATH TERSEBUT !!!")
 else:
     print("--- SUCCESS: FILE CSV DITEMUKAN ---")
+
