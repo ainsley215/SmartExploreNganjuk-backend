@@ -3,6 +3,7 @@ from flask_cors import CORS
 from routes.destinations import destinations_bp
 from ai.recommendation_model import rekomendasi_wisata
 from ai.route_optimizer import optimasi_rute
+import os
 
 app = Flask(__name__)
 CORS(app, origins=["https://smart-explore-nganjuk-frontend-pera-eta.vercel.app"])
