@@ -32,5 +32,5 @@ def get_rekomendasi():
     return jsonify(hasil_df.to_dict(orient='records'))
 
 if __name__ == '__main__':
-    # Jangan gunakan debug=True di production
-    app.run(host='0.0.0.0', port=5000)
+    port = int(os.environ.get("PORT", 8080))
+    app.run(host='0.0.0.0', port=port)
