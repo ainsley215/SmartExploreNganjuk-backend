@@ -32,6 +32,10 @@ def get_rekomendasi():
 
     return jsonify(hasil_df.to_dict(orient='records'))
 
+@app.route('/')
+def hello():
+    return "Aplikasi Berhasil Jalan!"
+
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
     app.run(host='0.0.0.0', port=port)
