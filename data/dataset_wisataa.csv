@@ -1,0 +1,26 @@
+id,nama,kategori,deskripsi,tags,rating,latitude,longitude
+1,air terjun sedudo,Alam,"Air terjun yang ikonik di Nganjuk, yang cocok untuk wisata keluarga dengan suasana asri, udasa yang sejuk, dan jalur hiking yang ringan ","keluarga, hiking, ikonik",4.5,-7.6920014,111.9197424
+2,air terjun singokromo,Alam,"Wisata Hidden-Gem di Nganjuk dengan suasana tenang, udara segar, dan lingkungan yang masih alami cocok untuk explore wisata ","tenang, asri, hidden-gem",4.5,-7.7778811,111.7666853
+3,air terjun sumbermiri,Alam,"Air terjun tersembunyi (hidden gem) dengan suasana tenang, udara segar, dan lingkungan yang masih alami.","tenang, segar, asri",4.1,-7.4575367,112.0478306
+4,air terjun sumbermanik,Alam,"Destinasi air terjun dengan suasana sejuk, asri, dan masih jarang dikunjungi, cocok untuk pencinta hidden gem","segar, asri, hidden-gem",4,-7.4533645,112.0478306
+5,air terjun roro kuning,Alam,"Air terjun populer dengan pemandangan ikonik, cocok untuk aktivitas hiking ringan dan menikmati udara segar.","hiking, ikonik, segar",4.3,-7.7785787,111.844809
+6,bukit watu lawang,Alam,"Bukit dengan panorama alam yang indah dan spot foto ikonik, cocok untuk hiking dan menikmati pemandangan.","hiking, pemandangan, ikonik",4.5,-7.7786505,111.7648404
+7,bukit cinta,Alam,"Tempat favorit untuk menikmati sunset dengan suasana romantis, cocok untuk hiking santai dan spot foto ikonik.","sunset, hiking, ikonik",4.3,-7.6873193,111.8806508
+8,wilis view,Alam,"Destinasi dengan pemandangan pegunungan yang indah, cocok untuk menikmati sunrise/sunset, kuliner, dan bersantai.","sunset, ikonik, keluarga",4.1,-7.7350245,111.7657577
+9,waduk perning,Alam,"Waduk dengan suasana santai dan pemandangan menarik, cocok untuk piknik keluarga dan spot foto ikonik.","piknik, keluarga, ikonik",3.9,-7.5061109,112.1127778
+10,bendungan semantok,Alam,"Bendungan terbesar dengan panorama sunset yang indah, cocok untuk wisata keluarga dan fotografi.","sunset, keluarga, ikonik",4,-7.4927352,111.8945426
+11,candi ngetos,edukasi,"Situs bersejarah yang memiliki nilai edukasi tinggi, cocok untuk wisata keluarga sambil belajar sejarah.","sejarah, edukasi, keluarga",4.5,-7.693567,111.8424567
+12,museum anjuk ladang,edukasi,"Museum yang menyajikan sejarah dan budaya lokal, cocok untuk wisata edukasi keluarga dengan konsep indoor.","sejarah, edukasi, budaya, indoor",4.4,-7.5932525,111.8938768
+13,candi lor,edukasi,"Candi bersejarah yang kaya akan nilai budaya dan edukasi, cocok untuk mengenal sejarah daerah.","edukasi, sejarah, budaya",4.4,-7.6377629,111.8922355
+14,goa margo tresno,edukasi,"Goa unik dengan nilai sejarah dan edukasi, menawarkan pengalaman wisata yang berbeda dan menarik.","unik, edukasi, sejarah",4.2,-7.4460053,111.9354339
+15,sendang putri wilis,Alam,"Sumber air alami dengan suasana segar dan asri, cocok untuk relaksasi dan menikmati keindahan alam yang ikonik.","segar, asri, ikonik",4.6,-7.7795905,111.7661171
+16,alun alun nganjuk,wisata kota,"Pusat wisata kota dengan berbagai kuliner, suasana santai, dan cocok untuk rekreasi keluarga.","kuliner, wisata kota, santai",4.4,-7.6024302,111.901018
+17,waduk putukrejo,Alam,"Waduk dengan pemandangan alam yang menenangkan, cocok untuk piknik dan menikmati udara segar.","pemandangan, segar, piknik",4.2,-7.6435121,111.9329364
+18,jolotundo,Alam,Tempat wisata dan kuliner bernuansa alam yang cocok untuk keluarga dengan sentuhan spot foto yang ikonik,"kuliner, keluarga, ikonik",4.4,-7.7716186,111.8492203
+19,bukit surga,Alam,"Tempat wisata alam dengan panorama perbukitan yang indah, cocok untuk hiking ringan, menikmati udara segar, serta tersedia spot foto dengan latar pemandangan yang menenangkan.","hiking, pemandangan, ikonik",4.5,-7.7507935,111.7668125
+20,monumen dr.soetomo,edukasi,"Monumen bersejarah untuk mengenang jasa Dr. Soetomo sebagai tokoh pergerakan nasional, cocok untuk wisata edukasi sekaligus menambah wawasan sejarah dalam suasana yang santai.","sejarah, edukasi, santai",4.3,-7.665612,111.8853376
+21,monumen marsinah,edukasi,Monumen ini didirikan sebagai wujud penghormatan atas perjuangan Marsinah melawan ketidakadilan dan intimidasi terhadap buruh.,"sejarah, santai, edukasi",4.4,-7.6041377,111.9693149
+22,taman nyawiji,taman ,"Taman yang nyaman untuk bersantai dan menyegarkan pikiran, cocok untuk  menikmati suasana yang tenang di tengah kota.","taman, santai, outdoor",4.5,-7.6104678,111.8980718
+23,wisata tani desa betet,wisata ,"Wisata Tani Desa Betet merupakan destinasi wisata dengan suasana yang asri dan nyaman, cocok untuk bersantai dan menikmati waktu luang, serta tersedia spot foto yang ikonik.","wisata, outdoor, santai",4.3,-7.6519092,112.0389889
+24,taman pandan wilis,taman ,"Taman Pandan Wilis merupakan tempat yang nyaman dengan suasana asri, cocok untuk bersantai, beraktivitas ringan, dan menikmati waktu luang.","taman, santai, outdoor",4.3,-7.5889819,111.9163633
+25,Gunung Argokelono,Alam,Destinasi pendakian di kawasan pegununggan wilis dengan ketinggian sekitar 1.700 mdpl,"alam, santai, pemandangan",4.9,-7.7838883,111.7802337
