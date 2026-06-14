@@ -97,3 +97,10 @@ def get_detail(identifier):
         return jsonify(data_detail.iloc[0].to_dict()), 200
     else:
         return jsonify({"error": "Destinasi tidak ditemukan"}), 404
+    
+
+print(f"DEBUG: Mencari CSV di: {CSV_PATH}")
+if not os.path.exists(CSV_PATH):
+    print("!!! ERROR: FILE CSV TIDAK DITEMUKAN DI PATH TERSEBUT !!!")
+else:
+    print("--- SUCCESS: FILE CSV DITEMUKAN ---")
