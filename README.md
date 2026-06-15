@@ -107,3 +107,7 @@ POST /route
 * Menampilkan detail destinasi wisata
 * Rekomendasi wisata berbasis AI
 * Optimasi rute wisata berdasarkan lokasi pengguna
+
+---
+ML
+https://drive.google.com/file/d/1Vq7O2JlXJkFadOS-yFwUn9jMzfBkdbpG/view?usp=sharing
